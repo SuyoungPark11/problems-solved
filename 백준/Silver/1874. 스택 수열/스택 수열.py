@@ -26,6 +26,6 @@ for i in range(n):
         output.append('-')
 
 if valid:
-    sys.stdout.write("\n".join(output) + "\n")
+    print("\n".join(output) + "\n")
 else:
-    sys.stdout.write("NO\n")
+    print("NO\n")
