@@ -7,6 +7,6 @@ class Solution:
                 elif i ** 2 == x:
                     return i
         else:
-            return 0
+            return x
 
         
