@@ -1,2 +1,2 @@
-# BaekjoonTest
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# Introduction 
+This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub) and [LeetCode Sync](https://github.com/joshcai/leetcode-sync?tab=readme-ov-file). 
